@@ -10,6 +10,41 @@ https://task-manager-frontend-mocha-eight.vercel.app/
 
 ---
 
+## 🧪 Demo Credentials
+
+Use the following accounts to explore all features:
+
+### 👑 Admin Access
+
+* **Email:** [abc@test.com](mailto:abc@test.com)
+* **Password:** 12345678
+
+👉 Full access:
+
+* Manage team members
+* Assign tasks
+* View all project data
+
+---
+
+### 👤 Member Access
+
+* **Email:** [adbihyia@gmail.com](mailto:adbihyia@gmail.com)
+
+* **Password:** 12345678
+
+* **Email:** [test1@test.com](mailto:test1@test.com)
+
+* **Password:** 12345678
+
+👉 Limited access:
+
+* View only assigned tasks
+* Update task status
+* No team management permissions
+
+---
+
 ## ✨ Features
 
 ### 🔐 Authentication & Onboarding
@@ -123,7 +158,6 @@ npm run dev
 ```
 
 ---
-
 
 ## 📁 Folder Structure
 
